@@ -7,10 +7,19 @@ mkhtml.sh takes one argument and uses it as a folder name e.g.
 $ ./mkhtml test
 ```
 This will create a new folder called test and will create the files: index.html, styles.css and script.js inside it.
+* test/
+  * index.html
+  * styles.css
+  * script.js
+
 ```
 $ ./mkhtml
 ```
 If no argument is provided then a new folder called "New Website" will be created and will contain the new index.html, styles.css and script.js files.
+* New Website/
+  * index.html
+  * styles.css
+  * script.js
 
 # The Files
 The generated html file will contain the following:
