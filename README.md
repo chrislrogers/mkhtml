@@ -12,7 +12,7 @@ This will create a new folder called test and will create the files: index.html,
   * styles.css
   * script.js
 
-If no argument is provided then a new folder called "New Website" will be created and will contain the new index.html, styles.css and script.js files:
+If no argument is provided then a new folder called "New Website" will be created and will contain the new index.html, styles.css and script.js files e.g.
 ```
 $ ./mkhtml
 ```
